@@ -47,6 +47,3 @@ Se utilizó programación orientada a objetos (POO)
 Se aplicó inyección de dependencias en la interfaz
 Se respetó la separación entre lógica de negocio y presentación
 No se utilizaron librerías externas (solo estándar de Python)
-👩‍💻 Autor
-
-Desarrollado por: Fernanda
